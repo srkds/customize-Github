@@ -5,8 +5,9 @@ GitHub special repo which allows us to customize GitHub profile.
 we can add social links, more about us, and dynamic content.
 
 ## Why?
-- Makes better and stands out from the crowd.
-- Highlight more content easily
+👉Makes better and stands out from the crowd.
+
+👉Highlight more content easily
 
 👉Little and often wins the race.
 
