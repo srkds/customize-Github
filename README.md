@@ -2,7 +2,7 @@
 # Customize GitHub Profile
 
 GitHub special repo which allows us to customize GitHub profile.
-we can add social links, more about us, and dynamic content.
+We can add social links, showcase best open source collaborations, more about us, and dynamic content.
 
 ## Why?
 👉Makes better and stands out from the crowd.
